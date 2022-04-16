@@ -1,0 +1,45 @@
+{
+  "id": "example_course",
+  "name": "Example course",
+  "description": "Example course description",
+  "levels": [
+    {
+      "theory": [
+        {
+          "name": "Threory 1",
+          "text": "Text"
+        }
+      ],
+      "practice": [
+        {
+          "name": "Practice 1",
+          "description": "Description",
+          "audio_name": "example.mp3",
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "theory": [
+        {
+          "name": "Threory 2",
+          "text": "Text 2"
+        }
+      ],
+      "practice": [
+        {
+          "name": "Practice 2",
+          "description": "Description 2",
+          "audio_name": "example2.mp3",
+          "duration": 10
+        },
+        {
+          "name": "Practice 3",
+          "description": "Description 3",
+          "audio_name": "example.mp3",
+          "duration": 10
+        }
+      ]
+    }
+  ]
+}
